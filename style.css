@@ -1,0 +1,20 @@
+p{
+    color: yellowgreen;
+    font-size: medium;
+    font-style: italic;
+}
+h2{
+    color: thistle;
+    padding: 50px;
+    font-style: oblique;
+}
+h1{
+    font-size: 15px;
+    padding: 28px;
+    color: whitesmoke;
+}
+.height{
+    font-size: 22px;
+    color: teal;
+    padding-top: 20px;
+}
